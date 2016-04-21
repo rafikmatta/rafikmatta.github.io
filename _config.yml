@@ -1,10 +1,10 @@
 # Site settings
 title: Rafik Matta
-email: rafik@rafikmatta.com
+email: rafi.matta@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Rafik Matta is an electrical, computer and software engineer who loves entrepreneurship. This is his blog and portfolio.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rafikmatta.com" # the base hostname & protocol for your site
+url: "https://rafikmatta.github.io" # the base hostname & protocol for your site
 twitter_username: rafikmatta
 github_username:  rafiki6
 
