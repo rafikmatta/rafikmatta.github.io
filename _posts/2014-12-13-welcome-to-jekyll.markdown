@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Welcome!"
-date:   2014-12-13 19:46:03
+date:   2020-08-15 17:35:03
 categories: info
 ---
 
-First post, site has been upgraded to using the jekyll system to stay in line with Github's hosting requirement!
+Welcome to my personal page and blog. I will be using this space to share
+tutorials and other interesting content based on my professional experience as a software engineer, 
+machine learning developer and data scientist. Stay tuned!
