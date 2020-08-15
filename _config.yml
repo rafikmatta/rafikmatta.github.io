@@ -2,11 +2,11 @@
 title: Rafik Matta
 email: rafi.matta@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Rafik Matta is an electrical, computer and software engineer who loves entrepreneurship. This is his blog and portfolio.
+  Rafik Matta is a machine learning engineer, currently working in the financial industry.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://rafikmatta.github.io" # the base hostname & protocol for your site
 twitter_username: rafikmatta
-github_username:  rafiki6
+github_username:  rafikmatta
 
 # Build settings
 markdown: kramdown
