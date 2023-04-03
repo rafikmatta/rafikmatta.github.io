@@ -1,30 +1,21 @@
 # Rafik Matta
 
-Machine Learning Engineer
+**Machine Learning Engineer**
 
-Email: rafi dot matta at gmail | GitHub: [rafikmatta](https://github.com/rafikmatta)
+_Email:_ rafi dot matta at gmail | _GitHub:_ [rafikmatta](https://github.com/rafikmatta)
+
+---
 
 ## Skills
 
-### Experienced Languages
+| Category     | Skills                                            |
+|--------------|---------------------------------------------------|
+| **Languages**| Experienced: Python, Java, SQL                    |
+|              | Functional: C#, C/C++, R, Javascript              |
+| **Frameworks**| Spark (PySpark), Dask, pandas, TensorFlow, PyTorch, keras |
+| **Databases**| MySQL, Oracle, MS SQL Server, Hadoop (HDFS), PostgreSQL |
+| **Cloud**    | OpenShift, Kubernetes, Docker, Azure, Databricks  |
 
-- Python, Java, SQL
-
-### Functional Languages
-
-- C#, C/C++, R, Javascript
-
-### Frameworks
-
-- Spark (PySpark), Dask, pandas, TensorFlow, PyTorch, keras
-
-### Databases
-
-- MySQL, Oracle, MS SQL Server, Hadoop (HDFS), PostgreSQL
-
-### Cloud
-
-- OpenShift, Kubernetes, Docker, Azure, Databricks
 
 ## Experience
 
