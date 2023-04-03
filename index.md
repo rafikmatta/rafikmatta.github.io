@@ -2,7 +2,7 @@
 
 **Machine Learning Engineer**
 
-_Email:_ rafi dot matta at gmail | _GitHub:_ [rafikmatta](https://github.com/rafikmatta)
+_Email:_ rafi dot matta at gmail | _GitHub:_ [rafikmatta](https://github.com/rafikmatta) | _LinkedIn_:_ https://linkedin.com/rafikmatta
 
 ---
 
